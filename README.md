@@ -41,7 +41,3 @@ Column subset used: `tpep_pickup_datetime, tpep_dropoff_datetime, trip_distance,
 - Catalyst Optimizer and Tungsten Engine handle most optimizations automatically.
 - Even without explicit caching, Databricks Serverless efficiently handles large-scale Parquet data.
 - Distributed aggregation scales well across 12 months of taxi data.
-
-## Screenshots
-
-
